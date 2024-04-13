@@ -1,1 +1,2 @@
 added new temperature : 30 degree
+change good to finest
